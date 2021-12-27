@@ -1,16 +1,16 @@
-![readme](https://user-images.githubusercontent.com/69171325/147465734-9868a4eb-3931-49af-962e-3436e95f3693.png)
+![readme](https://user-images.githubusercontent.com/69171325/147475929-bb42e2ae-eba7-436a-9ee9-87e3a6d4cfee.png)
 
 <div align-"center">
-<img scr="https://user-images.githubusercontent.com/69171325/147465734-9868a4eb-3931-49af-962e-3436e95f3693.png" width="800px" />
+<img scr="https://user-images.githubusercontent.com/69171325/147475929-bb42e2ae-eba7-436a-9ee9-87e3a6d4cfee.png" width="800px" />
 
 # **Readme**
 
 ### 📌 **Indice**
 
 * [O que é](#-O-que-é)
-* [Principais Funções](Principais-Funções)
-* [Desenvolvimento](Desenvolvimento)
-* [Recursos](Recursos)
+* [Principais Funções](#-Principais-Funções)
+* [Desenvolvimento](#-Desenvolvimento)
+* [Recursos](#-Recursos)
 
 <br>
 
@@ -21,7 +21,6 @@
 
 É a documentação do projeto, onde é especificado as características e recursos utilizados. 
 Possui a extensão **.md** que significa **Markdown**, que é uma ferramenta de conversão de texto em HTML de maneira simples e facilitada.
-
 <br>
 
 
@@ -29,7 +28,6 @@ Possui a extensão **.md** que significa **Markdown**, que é uma ferramenta de 
 O Readme é uma referência!
 
 É o horizonte que deve guiar aos leitores como um guia descritivo e intuitivo, norteando a compreensão e ações para a execução do projeto.
-
 <br>
 
 ## **Desenvolvimento**
@@ -55,7 +53,6 @@ $ git remote add origin https://github.com/Petter-pr/Readme.git
 # exportei a versão final do meu projeto
 $ git push -u origin main
 ```
-
 <br>
 
 ## **Recursos**
