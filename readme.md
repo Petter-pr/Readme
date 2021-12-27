@@ -14,20 +14,19 @@
 
 <br>
 
-***
-
 ## **O que é**
 É um arquivo que contém as informações necessárias sobre o objetivo do projeto.
 
 É a documentação do projeto, onde é especificado as características e recursos utilizados. 
 Possui a extensão **.md** que significa **Markdown**, que é uma ferramenta de conversão de texto em HTML de maneira simples e facilitada.
-<br>
 
+<br>
 
 ## **Principais Funções**
 O Readme é uma referência!
 
 É o horizonte que deve guiar aos leitores como um guia descritivo e intuitivo, norteando a compreensão e ações para a execução do projeto.
+
 <br>
 
 ## **Desenvolvimento**
@@ -60,7 +59,7 @@ A estilização do **readme**, facilita a compreensão aos leitores, na identifi
 
 Além da aparência, o **Markdown** possibilita a inclusão outros recursos que favorecem a usabilidade e amplia a utilidade do readme, com uso de links, imagens, identificadores e organizadores que concorrem para entregar uma documentação esteticamente útil e ágil.
 
-<h1>
+<br>
 
 ## 🚀 Aprenda e Pratique
 Para ampliar essa experiência e aprender sobre esses recursos e aplicá-loa ao readme busquei às seguintes recomendações:
@@ -70,6 +69,8 @@ Para ampliar essa experiência e aprender sobre esses recursos e aplicá-loa ao 
 >[**Git**](https://comandosgit.github.io/#basico)
 
 ______
+
+</h1>
 <br>
 
 </ Sou estudante iniciante, apresentando um pouco do que tenho aprendido.
