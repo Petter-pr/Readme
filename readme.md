@@ -62,7 +62,7 @@ Além da aparência, o **Markdown** possibilita a inclusão outros recursos que 
 <br>
 
 ## 🚀 Aprenda e Pratique
-Para ampliar essa experiência e aprender sobre esses recursos e aplicá-loa ao readme busquei às seguintes recomendações:
+Para ampliar essa experiência e aprender sobre esses recursos e aplicá-los ao readme busquei às seguintes recomendações:
 
 >[**Markdown**](https://daringfireball.net/projects/markdown/ ) <br>
 >[**Readme**](https://blog.rocketseat.com.br/o-que-e-readme-e-porque-e-tao-importante/ "Como escrever um README.md sensacional no Github") <br>
