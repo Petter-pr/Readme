@@ -7,10 +7,10 @@
 
 ### 📌 **Indice**
 
-* [O que é](#-O-que-é)
-* [Principais Funções](#-Principais-Funções)
-* [Desenvolvimento](#-Desenvolvimento)
-* [Recursos](#-Recursos)
+* [O que é](#O-que-é)
+* [Principais Funções](#Principais-Funções)
+* [Desenvolvimento](#Desenvolvimento)
+* [Recursos](#Recursos)
 
 <br>
 
